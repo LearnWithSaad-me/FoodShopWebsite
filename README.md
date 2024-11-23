@@ -59,8 +59,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 If you have any questions, feel free to contact us at:
 
-- **Email**: booking@restaurant.com
-- **Phone**: +1 123 456 7890
+- **Email**: LearnWithSaad@Proton.me
+- **Phone**: +923276227737
 
 Visit us at:  
 Restaurant St, Delicious City, London 9578, UK
