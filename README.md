@@ -65,6 +65,4 @@ If you have any questions, feel free to contact us at:
 Visit us at:  
 Restaurant St, Delicious City, London 9578, UK
 
-## Acknowledgments
 
--
