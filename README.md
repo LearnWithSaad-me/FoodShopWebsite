@@ -2,7 +2,7 @@
 
 Grilli is a modern and responsive restaurant HTML template that offers a delightful experience for food lovers. This template is designed for restaurants that want to showcase their menus, services, and special offers in a stylish, clean, and professional manner.
 
-Made by [CodeWithSadee](https://github.com/codewithsadee), Grilli features an intuitive layout, attractive images, and easy-to-use navigation, making it perfect for restaurant websites.
+Made by [LearnWithSaad](https://github.com/LearnWithSaad-me), Grilli features an intuitive layout, attractive images, and easy-to-use navigation, making it perfect for restaurant websites.
 
 ## Features
 
